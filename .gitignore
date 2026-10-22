@@ -1,0 +1,23 @@
+# данные (скачиваются ноутбуком)
+data/
+*.csv
+*.jsonl
+*.jsonl.gz
+*.parquet
+*.npz
+*.npy
+*.pt
+
+# окружение
+.venv/
+venv/
+env/
+.env
+
+# кеши
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
